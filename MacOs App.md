@@ -48,8 +48,9 @@
 
 ## 优化 terminal
 + 安装 `zsh`
-+ 安装 `oh-my-zsh`
-+ 安装 `iterm2`
++ 安装 [`oh-my-zsh`](https://blog.csdn.net/u013310075/article/details/62585826
+)
++ 安装 [`iterm2`](https://www.cnblogs.com/xishuai/p/mac-iterm2.html)
 + 配置配色方案、配置样式
 + 配置 `alias`
 
